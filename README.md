@@ -14,9 +14,12 @@
     />
      
     
-- 🌱 I’m currently learning **React JS** - 💬 Ask me about
-    **JavaScript,Java,Animes,Movies,Cricket,Football,Music** - 📫 How to reach
-    me **kaustubhsingh37@gmail.com** - ⚡ Fun fact **I can be good**
+- 🌱 I’m currently learning **React JS**
+- 💬 Ask me about
+    **JavaScript,Java,Animes,Movies,Cricket,Football,Music**
+- 📫 How to reach
+    me **kaustubhsingh37@gmail.com**
+- ⚡ Fun fact **I can be good**
 
     <p align="left">
       <img
