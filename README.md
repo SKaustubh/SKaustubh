@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53_w200.webp" width="400">
+<img src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53_w200.webp" width="100%">
 
 <h1 align="center">Hi 👋, I'm Kaustubh Singh</h1>
 <h3 align="center">A passionate learner from Lucknow,India</h3>
@@ -7,9 +7,9 @@
  <img
       src="https://cdn-images-1.medium.com/max/859/1*IRFhWNqusUWbTsB1hQXhrQ.gif"
       alt="image"
-      align="right"
-      width="400"
-    />
+width="100%"/>
+     
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="skaustubh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SKaustubh" alt="skaustubh" /></a> </p>
