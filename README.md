@@ -10,7 +10,7 @@
       src="https://cdn-images-1.medium.com/max/859/1*IRFhWNqusUWbTsB1hQXhrQ.gif"
       alt="image"
       align="right"
-      width="500px"
+      width="400px"
     />
      
     
